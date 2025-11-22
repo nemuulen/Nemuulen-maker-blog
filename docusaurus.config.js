@@ -14,7 +14,7 @@ const config = {
   tagline: 'Building, Learning, Creating',
   favicon: 'img/favicon.ico',
   url: 'https://nemuulen.github.io',
-  baseUrl: '/Nemuulen-maker-blog/',
+  baseUrl: '/https://github.com/nemuulen/Nemuulen-maker-blog/',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
