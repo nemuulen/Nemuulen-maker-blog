@@ -13,7 +13,7 @@ const config = {
   title: 'My Maker Journey',
   tagline: 'Building, Learning, Creating',
   favicon: 'img/favicon.ico',
-  url: '/https://github.com/nemuulen/',
+  url: 'https://nemuulen.github.io',
   baseUrl: '/Nemuulen-maker-blog/',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
