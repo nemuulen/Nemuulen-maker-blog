@@ -13,6 +13,8 @@ const config = {
   title: 'My Maker Journey',
   tagline: 'Building, Learning, Creating',
   favicon: 'img/favicon.ico',
+  url: 'https://nemuulen.github.io/',
+  baseUrl: '/https://github.com/nemuulen/Nemuulen-maker-blog.git/',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -27,8 +29,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'nemuulen', // Usually your GitHub org/user name.
+  projectName: 'Nemuulen-maker-blog', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
