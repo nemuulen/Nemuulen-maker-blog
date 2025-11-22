@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkmy_maker_blog=globalThis.webpackChunkmy_maker_blog||[]).push([[9067],{1007:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/https://github.com/nemuulen/Nemuulen-maker-blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
