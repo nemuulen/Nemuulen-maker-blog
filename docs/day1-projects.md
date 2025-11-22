@@ -35,11 +35,11 @@ N/A
 
 ### Flags Captured | 捕获的 Flag
 
-- [+] Flag 1: Sensor Reading
+- [x] Flag 1: Sensor Reading
 - [ ] Flag 2: Actuator Control
 - [ ] Flag 3: Sensor to Actuator
 - [ ] Flag 4: Complex Logic
-- [+] Flag 5: Creative Project
+- [x] Flag 5: Creative Project
 
 ### My Favorite Challenge | 我最喜欢的挑战
 
